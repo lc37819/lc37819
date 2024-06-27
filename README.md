@@ -1,5 +1,6 @@
 <header><img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Animated GIF"></header>
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=400&height=70&duration=3500&color=2471A3&lines=Hi+Friend!+👋;+I'm+Elton+Gbollie!;Welcome+To+My+Profile!!" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Friend!+👋;+I'm+Elton+Gbollie!;" />
 </h1>
 <h3 align="center">Software Engineer specializing in Machine Learning and Artificial Intelligence</h3>
 <img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="Coding GIF">
