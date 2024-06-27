@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **lc37819@umbc.edu**
 
-- ⚡ Fun fact **my favorite language is Python**
+- ⚡ Fun fact **I can implement Binary Search in less than 45 seconds**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
