@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<div align="center">
   <a href="https://angular.io" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/>
   </a>
