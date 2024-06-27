@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **lc37819@umbc.edu**
 
-- ⚡ Fun fact **my favorite languages is Python**
+- ⚡ Fun fact **my favorite language is Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
